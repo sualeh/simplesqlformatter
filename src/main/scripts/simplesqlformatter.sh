@@ -1,0 +1,1 @@
+javaw -cp .:./lib/* simplesqlformatter.Main -window

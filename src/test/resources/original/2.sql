@@ -1,0 +1,1 @@
+/* this is a comment */ SELECT * FROM Persons WHERE City='Sandnes' and Country = 'USA' /* this is another comment */
